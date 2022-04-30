@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+sanityyoutube/node_modules
+
+.env.local
+
 # testing
 /coverage
 
